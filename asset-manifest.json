@@ -1,25 +1,15 @@
 {
-  "files": {
-    "main.css": "/robofriends/static/css/main.0ff520dc.chunk.css",
-    "main.js": "/robofriends/static/js/main.0593408a.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.0593408a.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.59eca5ac.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.59eca5ac.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/robofriends/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.fbad7c07.chunk.js": "/robofriends/static/js/2.fbad7c07.chunk.js",
-    "static/js/2.fbad7c07.chunk.js.map": "/robofriends/static/js/2.fbad7c07.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.bf35aa50bba96db90c07249ee6e7c281.js": "/robofriends/precache-manifest.bf35aa50bba96db90c07249ee6e7c281.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/robofriends/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.0ff520dc.chunk.css.map": "/robofriends/static/css/main.0ff520dc.chunk.css.map",
-    "static/media/App.css": "/robofriends/static/media/SEGA.12a3db8b.woff"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.59eca5ac.js",
-    "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.fbad7c07.chunk.js",
-    "static/css/main.0ff520dc.chunk.css",
-    "static/js/main.0593408a.chunk.js"
-  ]
+  "main.css": "/facerecognitionbrain/static/css/main.7fb2f318.chunk.css",
+  "main.js": "/facerecognitionbrain/static/js/main.f0b52e17.chunk.js",
+  "main.js.map": "/facerecognitionbrain/static/js/main.f0b52e17.chunk.js.map",
+  "static/css/1.837e8e8d.chunk.css": "/facerecognitionbrain/static/css/1.837e8e8d.chunk.css",
+  "static/js/1.a44c8584.chunk.js": "/facerecognitionbrain/static/js/1.a44c8584.chunk.js",
+  "static/js/1.a44c8584.chunk.js.map": "/facerecognitionbrain/static/js/1.a44c8584.chunk.js.map",
+  "runtime~main.js": "/facerecognitionbrain/static/js/runtime~main.002c4e9b.js",
+  "runtime~main.js.map": "/facerecognitionbrain/static/js/runtime~main.002c4e9b.js.map",
+  "static/css/main.7fb2f318.chunk.css.map": "/facerecognitionbrain/static/css/main.7fb2f318.chunk.css.map",
+  "static/css/1.837e8e8d.chunk.css.map": "/facerecognitionbrain/static/css/1.837e8e8d.chunk.css.map",
+  "index.html": "/facerecognitionbrain/index.html",
+  "precache-manifest.063c2c5338a937ab012e7c1d56d2f8a3.js": "/facerecognitionbrain/precache-manifest.063c2c5338a937ab012e7c1d56d2f8a3.js",
+  "service-worker.js": "/facerecognitionbrain/service-worker.js"
 }
